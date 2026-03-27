@@ -3,13 +3,13 @@
 	"id": "no-elytra-flight",
 	"version": "${version}",
 	"name": "No Elytra Flight",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Disables elytra flight while still allowing players to equip elytra.",
 	"authors": [
-		"Me!"
+		"Zane Shaw"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://squidee.dev/",
+		"sources": "https://github.com/zaneshaw/no-elytra-flight"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/no-elytra-flight/icon.png",
