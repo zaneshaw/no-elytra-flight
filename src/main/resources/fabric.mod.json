@@ -3,7 +3,7 @@
 	"id": "no-elytra-flight",
 	"version": "${version}",
 	"name": "No Elytra Flight",
-	"description": "Disables elytra flight while still allowing players to equip elytra.",
+	"description": "Disables elytra flight while still allowing players to equip elytra",
 	"authors": [
 		"Zane Shaw"
 	],
